@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="main_list">
+        <item>"连接融云 connect"</item>
+        <item>"开启会话列表"</item>
+        <item>"开启聚合列表"</item>
+        <item>"开启会话页面"</item>
+    </string-array>
+
+    <string-array name="conversationlist_list">
+        <item>"通过 Api 调用"</item>
+        <item>"通过 Uri 调用"</item>
+        <item>"通过 startActivity 调用"</item>
+    </string-array>
+
+    <string-array name="subconversationlist_list">
+        <item>"通过 Api 调用"</item>
+        <item>"通过 Uri 调用"</item>
+    </string-array>
+
+</resources>
